@@ -32,3 +32,5 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+Oracle_JDK-22/*
+Oracle_JDK-22/
