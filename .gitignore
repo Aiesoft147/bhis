@@ -34,3 +34,4 @@ override.tf.json
 terraform.rc
 Oracle_JDK-22/*
 Oracle_JDK-22/
+**/Oracle_JDK-22/*
